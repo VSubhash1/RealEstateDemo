@@ -1,0 +1,7 @@
+server
+script
+shared
+drizzle.config.ts
+.git
+node_modules
+dist

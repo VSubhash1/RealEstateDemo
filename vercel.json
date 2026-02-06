@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "dist/public",
+  "framework": "vite",
+  "root": ".",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
